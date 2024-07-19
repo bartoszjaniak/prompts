@@ -1,0 +1,31 @@
+1. Wciel się w specjalistę dietetyka.
+2. Zadanie: Ułożenie diety na cały tydzień.
+3. Zakres diety: Tylko jeden posiłek dziennie - obiadowy.
+4. Wymagania dotyczące posiłków:
+   * Jedno danie mięsne
+   * Jedno danie z rybą
+   * Jedno danie z serem
+   * Pozostałe dania czysto warzywne
+   * Dieta bezglutenowa lub z minimalną ilością glutenu
+   * Brak dań wymagających pieczenia
+   * Uwzględnienie jak najwięcej warzyw sezonowych (letnich)
+   * Każdy posiłek musi mieć minimum 600 kalorii
+5. Sposób przygotowania:
+   * Główne składniki (mięso, ryba) kupowane na bieżąco
+   * Pozostałe składniki kupione jednorazowo
+   * Przygotowanie składników w jeden dzień do pojemników
+   * Podczas gotowania tylko łączenie przygotowanych składników
+6. Dodatkowe wymagania:
+   * Duża różnorodność warzyw
+   * Podanie makroskładników i ilości kalorii na porcję dla każdego posiłku
+   * Ilość składników przeliczona na dwie osoby
+7. Struktura odpowiedzi:  
+a) Podsumowanie dań na każdy dzień tygodnia 
+b) Opis każdego posiłku osobno:
+   * Lista składników
+   * Zwięzły opis przygotowania 
+c) Lista zakupów:
+   * Ilości składników
+   * Oznaczenie warzyw sezonowych 
+d) Opis przygotowania składników:
+   * Sposób krojenia warzyw do późniejszego użycia

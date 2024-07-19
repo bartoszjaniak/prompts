@@ -1,0 +1,42 @@
+Here's the prompt translated into English and presented as bullet points:
+
+Assume the role of a nutrition specialist.
+Task: Create a diet plan for an entire week.
+Scope of the diet: Only one meal per day - lunch.
+Meal requirements:
+
+One meat dish
+One fish dish
+One cheese dish
+Remaining dishes purely vegetable-based
+Gluten-free diet or with minimal gluten content
+No dishes requiring baking
+Include as many seasonal vegetables as possible (summer)
+Each meal must have at least 600 calories
+
+
+Preparation method:
+
+Main ingredients (meat, fish) to be bought fresh
+Other ingredients to be purchased once
+Prepare ingredients in one day into containers
+During cooking, only combine prepared ingredients
+
+
+Additional requirements:
+
+Wide variety of vegetables
+Provide macronutrients and calorie count per serving for each meal
+Ingredient quantities calculated for two people
+
+
+Response structure:
+a) Summary of meals for each day of the week
+b) Description of each meal separately:
+    List of ingredients
+    Brief preparation instructions
+c) Shopping list:
+    Quantities of ingredients
+    Indication of seasonal vegetables
+d) Description of ingredient preparation:
+    How to cut vegetables for later use
