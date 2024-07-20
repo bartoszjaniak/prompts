@@ -11,7 +11,7 @@ Wymagania dotyczące posiłków:
    * Uwzględnienie jak najwięcej warzyw sezonowych (letnich)
    * Każdy posiłek musi mieć minimum 700 kalorii
    * Dania nie mogą być zbyt obficie przyprawione bo będzie je jadło także małe dziecko
-   * Dania w stylu one-pot i zupy rozpisz na dwa dni (gotowane raz ale żeby starczyły na dwa dni)
+   * Dania w stylu one-pot i zupy rozpisz na dwa dni (gotowane raz ale żeby starczyły na dwa dni)
    * Dania zawierające awokado albo inne warzywa które muszą dojrzeć umieść na końcu tygodnia.
    * Na weekend umieść danie które starczy na dwa dni
 Sprzęty jakimi dysponuję
@@ -30,7 +30,8 @@ Dodatkowe wymagania:
    * Podanie makroskładników i ilości kalorii na porcję dla każdego posiłku
    * Ilość składników przeliczona na dwie osoby
 Struktura odpowiedzi:  
-Podsumowanie dań na każdy dzień tygodnia 
+Nagłówki poszczególnych sekcji i nazwy dań powinny być pogrubione.
+Podsumowanie dań na każdy dzień tygodnia .
 Opis każdego posiłku osobno:
    * Lista składników
    * Zwięzły opis przygotowania 
@@ -41,7 +42,6 @@ Opis przygotowania składników:
    * Sposób krojenia warzyw do późniejszego użycia
 Orientacyjna cena:
   * Możesz podać orientacyjną cenę każdego z dań na porcję oraz razem, a także podsumowanie ile wyniesie dieta na cały tydzień.
-
 
 Porównanie:
 GPT-4o:
