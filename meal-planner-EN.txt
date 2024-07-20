@@ -1,42 +1,68 @@
-Here's the prompt translated into English and presented as bullet points:
+Task: Plan a diet for an entire week. Ask me questions if you need clarification.
 
-Assume the role of a nutrition specialist.
-Task: Create a diet plan for an entire week.
-Scope of the diet: Only one meal per day - lunch.
-Meal requirements:
+Diet Scope: Only one meal per day - lunch.
 
-One meat dish
-One fish dish
-One cheese dish
-Remaining dishes purely vegetable-based
-Gluten-free diet or with minimal gluten content
-No dishes requiring baking
-Include as many seasonal vegetables as possible (summer)
-Each meal must have at least 600 calories
+Meal Requirements:
 
+	•	At least 2 dishes should be from the MIND diet.
+	•	One meat dish (any type of meat).
+	•	One fish or seafood dish (any fish or shrimp).
+	•	One dish with cheese (halloumi, feta, or a similar type).
+	•	Any spices are allowed.
+	•	Frying with coconut oil.
+	•	The remaining dishes should be purely vegetable-based (all vegetables available in Poland are allowed).
+	•	Gluten-free or with minimal gluten.
+	•	No dishes requiring baking.
+	•	Include as many seasonal (summer) vegetables as possible.
+	•	Each meal must have at least 700 calories.
+	•	Dishes should not be too heavily spiced as they will also be eaten by a small child.
+	•	One-pot meals and soups should be planned for two days (cooked once but enough for two days).
+	•	Dishes containing avocado or other vegetables that need to ripen should be placed at the end of the week.
+	•	On the weekend, include a dish that will last for two days.
+	•	Each ingredient, apart from meat and fish, should be used in at least two dishes.
+	•	The maximum budget is 500 PLN per week for 2 people.
 
-Preparation method:
+Available Equipment:
 
-Main ingredients (meat, fish) to be bought fresh
-Other ingredients to be purchased once
-Prepare ingredients in one day into containers
-During cooking, only combine prepared ingredients
+	•	Blender
+	•	Stove
+	•	Steamer
+	•	Mixer
+	•	Grill
 
+Preparation Method:
 
-Additional requirements:
+	•	Main ingredients (meat, fish) bought as needed.
+	•	Remaining ingredients bought all at once.
+	•	Prepare ingredients in one day into containers.
+	•	During cooking, only combine the prepared ingredients.
 
-Wide variety of vegetables
-Provide macronutrients and calorie count per serving for each meal
-Ingredient quantities calculated for two people
+Additional Requirements:
 
+	•	Wide variety of vegetables.
+	•	Provide macronutrients and calorie counts per serving for each meal.
+	•	Ingredient quantities calculated for two people.
 
-Response structure:
-a) Summary of meals for each day of the week
-b) Description of each meal separately:
-    List of ingredients
-    Brief preparation instructions
-c) Shopping list:
-    Quantities of ingredients
-    Indication of seasonal vegetables
-d) Description of ingredient preparation:
-    How to cut vegetables for later use
+Response Structure:
+
+Headings for each section and dish names should be in bold.
+
+Summary of dishes for each day of the week.
+
+Description of each meal separately:
+
+	•	Ingredient list
+	•	Concise preparation instructions
+
+Shopping List:
+
+	•	Ingredient quantities
+	•	Mark seasonal vegetables
+
+Preparation Instructions:
+
+	•	How to cut vegetables for later use
+
+Approximate Price:
+
+	•	You can provide an approximate price per serving for each dish and a summary of the weekly diet cost.

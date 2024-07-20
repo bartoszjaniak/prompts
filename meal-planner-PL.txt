@@ -1,11 +1,13 @@
-Wciel się w specjalistę dietetyka.
-Zadanie: Ułożenie diety na cały tydzień.
+Zadanie: Ułożenie diety na cały tydzień. Zadaj mi pytania jeżeli potrzebujesz doprecyzowania.
 Zakres diety: Tylko jeden posiłek dziennie - obiadowy.
 Wymagania dotyczące posiłków:
-   * Jedno danie mięsne
-   * Jedno danie z rybą lub owocami morza
-   * Jedno danie z serem
-   * Pozostałe dania czysto warzywne
+   * Przynajmniej 2 z dań powinny być z diery MIND.
+   * Jedno danie mięsne (obojętnie jakie mięso)
+   * Jedno danie z rybą lub owocami morza (dowolna ryba albo krewetki)
+   * Jedno danie z serem (hallumi, feta bądź inny podobny)
+   * Obojętnie jakie przyprawy
+   * Smażenie na oleju kokosowym
+   * Pozostałe dania czysto warzywne (dopuszczalne wszystkie warzywa dostępne w Polsce)
    * Dieta bezglutenowa lub z minimalną ilością glutenu
    * Brak dań wymagających pieczenia
    * Uwzględnienie jak najwięcej warzyw sezonowych (letnich)
@@ -14,6 +16,8 @@ Wymagania dotyczące posiłków:
    * Dania w stylu one-pot i zupy rozpisz na dwa dni (gotowane raz ale żeby starczyły na dwa dni)
    * Dania zawierające awokado albo inne warzywa które muszą dojrzeć umieść na końcu tygodnia.
    * Na weekend umieść danie które starczy na dwa dni
+   * Każdy ze składników oprócz mięs i ryb powinien być użyty przynajmniej w dwóch daniach
+   * Maksymalny budżet to 500 zł na tydzień dla 2 osób.
 Sprzęty jakimi dysponuję
    * Blender
    * Kuchenka
@@ -42,45 +46,3 @@ Opis przygotowania składników:
    * Sposób krojenia warzyw do późniejszego użycia
 Orientacyjna cena:
   * Możesz podać orientacyjną cenę każdego z dań na porcję oraz razem, a także podsumowanie ile wyniesie dieta na cały tydzień.
-
-Porównanie:
-GPT-4o:
-Poniedziałek: Kurczak z warzywami na parze
-Wtorek: Grillowany łosoś z sałatką z komosy ryżowej i warzyw
-Środa: Sałatka z serem feta, awokado i warzywami
-Czwartek: Duszone warzywa z ciecierzycą
-Piątek: Tofu z warzywami w sosie sojowym
-Sobota: Sałatka z grillowanymi warzywami i serem halloumi
-Niedziela: Kotlety z kalafiora i brokuła z sałatką z pomidorów i ogórków
-
-
-Sonnet:
-Poniedziałek: Grillowany łosoś z sałatką z quinoa i warzyw
-Wtorek: Sałatka z grillowanym kurczakiem i awokado
-Środa: Ratatouille z tofu
-Czwartek: Krewetki z warzywami na parze i sosem cytrynowym
-Piątek: Sałatka grecka z grillowanym halloumi
-Sobota: Gulasz wołowy z warzywami
-Niedziela: Letnie warzywa z grilla z hummusem
-
-
-Copilot:
-Poniedziałek: Sałatka z grillowanym kurczakiem
-Wtorek: Warzywny curry z komosą ryżową
-Środa: Grillowane filety z łososia z sałatką z awokado
-Czwartek: Risotto z pieczarkami i serem feta
-Piątek: Warzywne stir-fry z tofu
-Sobota: Chłodnik z botwinki i ogórka
-Niedziela: Quinoa z grillowanymi warzywami
-
-Gemini: 
-Poniedziałek: Pieczony kurczak z warzywami i sosem jogurtowym
-Wtorek: Łosoś z pieczonymi ziemniakami i sałatką z pomidorów i ogórków
-Środa: Makaron z serem feta i szpinakiem
-Czwartek: Burgery warzywne z domowym sosem guacamole i sałatką coleslaw
-Piątek: Tofu z grilla z warzywami ryżowymi i sosem teriyaki
-Sobota: Kotlety drobiowe z ziemniaczanym puree i surówką z marchewki
-Niedziela: Zupa krem z brokułów z grzankami
-
-
-
