@@ -18,6 +18,10 @@ Wymagania dotyczące posiłków:
    * Na weekend umieść danie które starczy na dwa dni
    * Każdy ze składników oprócz mięs i ryb powinien być użyty przynajmniej w dwóch daniach
    * Maksymalny budżet to 500 zł na tydzień dla 2 osób.
+   * Podziel zakupy na dni, tak aby składniki które mogą się zepsuć lub utracić właściwości zdrowotne nie leżały zbyt długo. (maksymalnie 3 razy na zakupy) 
+   * Po przygotowaniu składników uwzględnij informację czy dany składnik po przygotowaniu należy zamrozić (jak np paprykę). 
+   * Nie uwzględniaj pomidorów przy przygotowywaniu. 
+   * Do przepisów poszczególnych dań dodaj orientacyjny czas przygotowania.
 Sprzęty jakimi dysponuję
    * Blender
    * Kuchenka
